@@ -1,0 +1,40 @@
+---
+title: "Bruno Costacèque"
+
+about:
+  template: trestles
+  image: files/Bruno_Costacèque.png
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bruno.costaceque@ntu.edu.sg
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AERr9JEiiirqk8dNsyzo8j5khRaG0SZ1yKWp7AXcNtsGbTeLpaOo5fgjbm-X0lJaABh6PBZGM_IPplDISJhTtf92bX98&user=UeOgtPcAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/BCostaceque
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/CV_Bruno_COSTACEQUE.pdf
+---
+
+I am a postdoctoral researcher at the School of Physical and Mathematical Sciences (SPMS) of Nanyang Technological University (NTU), Singapore. 
+My research focuses on Stein's method, extreme value theory and functional analysis.
+
+## Research interests
+
+- Stein's method, in particular the generator approach initiated by A. Barbour. 
+- Extreme value theory, with an emphasis on asymptotic theorems (rates of convergence, interactions with asymptotic results such as the CLT) 
+- Functional analysis, and more specifically functional inequalities such as Poincaré inequality.
+
+<!-- ## News -->
+
+<!-- - **Oct 2026** Gave a talk at the Workshop on ... -->
+<!-- - **Sep 2026** New preprint on arXiv: [Title](https://arxiv.org/abs/XXXX.XXXXX) -->
+
+## Education
+
+- PhD in Applied Mathematics under the supervision of Professor Laurent Decreusefond, Institut Polytechnique de Paris (Télécom Paris), 2021–2024
+- MSc in Financial Mathematics ("El Karoui"), Paris 6 University (UPMC), 2020–2021

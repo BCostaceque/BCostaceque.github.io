@@ -1,0 +1,63 @@
+---
+title: "Teaching"
+---
+
+## Teaching assistant
+
+### Nanyang Technological University, Singapore
+
+**Real analysis**, 2025 – present. Lecturer: Chek Beng Chua.
+
+### Télécom Paris, Palaiseau, France
+
+October 2021 – December 2024. Courses, with the lecturer in charge:
+
+-   **Probability** (Pascal Bianchi)
+
+| Topic | Problem sheet | Solution |
+|------------------------|------------------------|------------------------|
+| Refreshers | [PDF](files/teaching/Télécom Paris/Probability/Enoncés - Remise en jambe.pdf) | [PDF](files/teaching/Télécom Paris/Probability/Solutions - Remise en jambe.pdf) |
+| Random variables and independence | - | [PDF](files/teaching/Télécom Paris/Probability/Solutions - VA et indépendance.pdf) |
+| Change of variable | [PDF](files/teaching/Télécom Paris/Probability/Enoncés - Changement de loi et changement de variable.pdf) | [PDF](files/teaching/Télécom Paris/Probability/Solutions - Changement de loi et changement de variable.pdf) |
+| Gaussian vectors | [PDF](files/teaching/Télécom Paris/Probability/Enoncés - Vecteurs gaussiens.pdf) | [PDF](files/teaching/Télécom Paris/Probability/Solutions - Vecteurs gaussiens.pdf) |
+| Markov chains | - | [PDF](files/teaching/Télécom Paris/Probability/Solutions - Chaînes de Markov.pdf) |
+
+-   **Asymptotic statistics & High dimensional probability** (Pascal Bianchi & Yann Issartel)
+
+| Topic | Problem sheet | Solution |
+|------------------------|------------------------|------------------------|
+| Exercise booklet for asymptotic statistics | [PDF](files/teaching/Télécom Paris/Asymptotic statistics/Enoncés.pdf) | [PDF](files/teaching/Télécom Paris/Asymptotic statistics/Corrigés.pdf) |
+| Preliminary results | [PDF](files/teaching/Télécom Paris/High-dimensional probability/TD1.pdf) | - |
+| Concentration inequalities | [PDF](files/teaching/Télécom Paris/High-dimensional probability/TD2.pdf) | - |
+| Sub-Gaussian distributions | [PDF](files/teaching/Télécom Paris/High-dimensional probability/TD3.pdf) | - |
+
+-   **Convex optimization** (Olivier Fercoq)
+
+| Topic | Problem sheet | Solution |
+|------------------------|------------------------|------------------------|
+| Preliminary results | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TD1.pdf) | [PDF](files/teaching/Télécom Paris/Convex optimization/Corrigé TD1.pdf) |
+| Proximal operator | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TD2.pdf) | [PDF](files/teaching/Télécom Paris/Convex optimization/Corrigé TD2.pdf) |
+| Logistic regression and LASSO | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TD3.pdf) | [PDF](files/teaching/Télécom Paris/Convex optimization/Corrigé TD3.pdf) |
+| Convex indicator functions | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TD4.pdf) | [PDF](files/teaching/Télécom Paris/Convex optimization/Corrigé TD4.pdf) |
+| Support vector machine | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TD5.pdf) | [PDF](files/teaching/Télécom Paris/Convex optimization/Corrigé TD5.pdf) |
+| Computer Lab 1: Natural Language Processing | [PDF](files/teaching/Télécom Paris/Convex optimization/Enoncé TP1.pdf) | - |
+| Computer Lab 2: Digit recognition | [PDF](files/teaching/Télécom Paris/Convex optimization/TP2.pdf) | - |
+
+-   **Numerical analysis and Monte Carlo methods** (Hicham Janati)
+
+| Topic | Problem sheet | Solution |
+|------------------------|------------------------|------------------------|
+| Quadrature methods (I) | [PDF](files/teaching/Télécom Paris/MC and numerical analysis/td3.pdf) | - |
+| Quadrature methods (II) | [PDF](files/teaching/Télécom Paris/MC and numerical analysis/td4.pdf) | - |
+| Monte Carlo (I) | [PDF](files/teaching/Télécom Paris/MC and numerical analysis/td6.pdf) | - |
+
+-   **Non-parametric statistics** (Philippe Ciblat)
+
+| Topic | Problem sheet | Solution |
+|------------------------|------------------------|------------------------|
+| Bayesian estimation | [PDF](files/teaching/Télécom Paris/Non-parametric statistics/TD1.pdf) | - |
+| Density estimation | [PDF](files/teaching/Télécom Paris/Non-parametric statistics/TD2.pdf) | - |
+| Regression | [PDF](files/teaching/Télécom Paris/Non-parametric statistics/TD3.pdf) | - |
+| Splines function | [PDF](files/teaching/Télécom Paris/Non-parametric statistics/TD4.pdf) | - |
+
+<!-- To post tutorial material for one of these courses, add a table like the one above under its name. -->

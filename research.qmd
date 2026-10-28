@@ -1,0 +1,40 @@
+---
+title: "Research"
+---
+
+My research lies in probability theory, with a focus on Stein's method, extreme
+value theory and stable distributions in general. After doing my PhD under the supervision of L. Decreusefond at Télécom Paris, I joined the School of Physical and Mathematical Sciences, NTU, Singapore as a Research Fellow. My main project consists in studying the interactions between the central limit theorem and the regular variation assumption in the context of the aggregation of random variables. 
+
+## Submitted
+
+1. **B. Costacèque**, N. Privault.
+   Convergence rates for the extreme value theorem via Stein's method.
+   Submitted to *Extremes*, 2026.
+   [[arXiv](https://arxiv.org/abs/2608.17562)]
+   [[PDF](https://arxiv.org/pdf/2608.17562)]
+
+## Published and accepted papers
+
+1. **B. Costacèque**, L. Decreusefond.
+   [Convergence rate for the coupon collector's problem with Stein's method](https://arxiv.org/abs/2501.06535).
+   *Stochastic Processes and their Applications*, in press, 2026.
+   [[arXiv](https://arxiv.org/abs/2501.06535)] [[PDF](https://arxiv.org/pdf/2501.06535)]
+
+## Preprints
+
+1. **B. Costacèque**, L. Decreusefond.
+   [Functional analysis of multivariate max-stable distributions](https://arxiv.org/abs/2509.02200).
+   *arXiv preprint*, September 2025.
+   [[arXiv](https://arxiv.org/abs/2509.02200)] [[PDF](https://arxiv.org/pdf/2509.02200)]
+
+2. **B. Costacèque**, L. Decreusefond.
+   [Stein's method for max-stable random vectors](https://arxiv.org/abs/2507.00463).
+   *arXiv preprint*, July 2025.
+   [[arXiv](https://arxiv.org/abs/2507.00463)] [[PDF](https://arxiv.org/pdf/2507.00463)]
+   <!-- The arXiv page 2507.00463 is titled "Stein's method for max-stable random vectors". Check which title you want to display. -->
+
+## PhD thesis
+
+**Stein's method for extreme value distributions.**
+Télécom Paris, 2024. Supervised by Laurent Decreusefond.[[HAL](https://dumas.ccsd.cnrs.fr/LTCI/tel-04874813v1)]
+

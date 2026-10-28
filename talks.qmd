@@ -1,0 +1,20 @@
+---
+title: "Talks"
+---
+
+## Talks given
+
+| Date | Event and place | Title | Slides |
+|------|-----------------|-------|--------|
+| Apr 2026 | CREAR WG Risk, ESSEC Asia Pacific, Singapore | *Stein's method for extreme value analysis* | [Slides](files/talks/slides/Slides 27-04-2026.pdf) |
+| Dec 2025 | SWGEN 2025 workshop, Institute of Environmental Geosciences, Grenoble, France | *Pareto versus Gaussian: rates of convergence for large sums of regularly varying random variables* | [Poster](files/talks/slides/poster 0212.pdf) |
+| Dec 2024 | Paris-Saclay seminar for PhD students in mathematics, Paris-Saclay University, Orsay, France | *The generator approach of Stein's method and the extreme value theorem* | [Slides](files/talks/slides/Slides 11-12-2024.pdf) |
+| Sep 2024 | SAMA at Aussois, LSCE, Aussois, France | *The generator approach of Stein's method and the extreme value theorem* | - |
+
+## Workshops attended
+
+| Date | Event and place |
+|------|-----------------|
+| Oct 2024 | SAFE Workshop, NTU-CNRS, Singapore |
+| Jun – Jul 2022 | Stein's Method: The Golden Anniversary, NUS, Singapore |
+| Oct 2021 | Journée de rentrée à l'IHES, IHES, Bures-sur-Yvette, France |

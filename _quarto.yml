@@ -1,0 +1,29 @@
+project:
+  type: website
+  resources:
+    - files/**
+
+website:
+  title: "Bruno Costacèque"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: talks.qmd
+        text: Talks
+      # - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
