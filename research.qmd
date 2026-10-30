@@ -8,7 +8,7 @@ value theory and stable distributions in general. After doing my PhD under the s
 ## Submitted
 
 1. **B. Costacèque**, N. Privault.
-   Convergence rates for the extreme value theorem via Stein's method.
+   [Convergence rates for the extreme value theorem via Stein's method](https://arxiv.org/abs/2608.17562)
    Submitted to *Extremes*, 2026.
    [[arXiv](https://arxiv.org/abs/2608.17562)]
    [[PDF](https://arxiv.org/pdf/2608.17562)]
